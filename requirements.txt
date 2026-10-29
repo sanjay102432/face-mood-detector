@@ -1,0 +1,5 @@
+# known-good combo tested together (Python 3.9 - 3.12)
+# NOTE: mediapipe 1.x removed the mp.solutions API used by this project,
+#       so we pin the 0.10.x line that still ships it.
+mediapipe==0.10.21
+opencv-python==4.13.0.92

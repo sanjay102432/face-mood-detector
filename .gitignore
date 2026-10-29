@@ -1,0 +1,11 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# virtual envs
+.venv/
+venv/
+
+# personal captures (your face!) - stay private by default
+detect_*.png
+mood_*.png
